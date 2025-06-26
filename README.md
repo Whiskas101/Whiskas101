@@ -5,7 +5,7 @@ Developer @classifyorg
 I’m a passionate AI & full‑stack enthusiast currently building toolsets that simplify real-world workflows and enhance experiences. I enjoy turning frustration into polished, user-focused apps.
 
 ## 📫 Let’s Connect 
-- **Email:** [getintouchwithvic2.email@example.com]
+- **Email:** getintouchwithvic2.email@example.com
 
 
 
